@@ -72,7 +72,7 @@ function create_config( )
     "tools"
  },
     sudo_users = {205258325},
-    admins = {},
+    admins = {205258325},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
     info_text = [[》Beyond Reborn v3.0
